@@ -1,37 +1,51 @@
-# 👋 Hi, I'm [Your Name]
+# 💻 Abhinand S Rajesh / README.md
 
-## 🏆 About Me:
-🚀 Working on AI Resume Screener with BERT, bias detection & Gmail outreach.  
-📊 Open to Analytics, AI/ML & NLP collaborations.  
-🛠️ Need help with model tuning & UX improvements.  
-🌱 Learning SQL & preparing for Oracle SQL Certification.  
-💬 Ask me about Data Analytics, R packages, or ML hacks.  
-⚡ Fun fact: I’ve mentored 300+ students in Python and Adobe!  
+## 🧠 About Me:
+
+🔐 Aspiring Cybersecurity Engineer with a focus on vulnerability testing and network security.  
+🛠 Currently building skills through certifications from Cisco, EC-Council & practical tools like Packet Tracer and Linux.  
+🌱 Learning continuously—exploring ethical hacking, system hardening, and secure coding practices.  
+👨‍💻 Passionate about bridging the gap between theory and real-world cybersecurity implementations.  
+📢 Actively seeking internships to contribute, learn, and grow under seasoned professionals.
 
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](your-link) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](your-link)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white)](your-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhinand-s-rajesh)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Abhinand-S-Rajesh)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:abhinandsrajesh16032004@gmail.com)
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+## 🛠 Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-lightgray?style=for-the-badge&logo=virtualbox)
 
 ---
 
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+## 🎓 Certifications:
+
+- Cisco NetAcad – Introduction to Cybersecurity  
+- Cisco CCNA – Introduction to Networks  
+- EC-Council – Ethical Hacking Essentials  
+- Infosys Springboard – Linux for Beginners  
+
+---
+
+## 📈 GitHub Stats:
+
+![Abhinand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinand-S-Rajesh&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand-S-Rajesh&layout=compact&theme=dark)
+
+---
+
+## ✨ Fun Fact:
+
+🎙 I’ve helped train over 200 students in video editing during an internship program, showing my passion for tech education beyond just code!
+
