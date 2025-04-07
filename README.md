@@ -13,7 +13,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhinand-s-rajesh)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/Abhinand-S-Rajesh)  
+[![GitHub](https://img.shields.io/badge/GitHub-green?logo=github&style=for-the-badge)](https://github.com/Abhinand-S-Rajesh)  
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:abhinandsrajesh16032004@gmail.com)
 
 ---
@@ -22,7 +22,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
 ![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-lightgray?style=for-the-badge&logo=virtualbox)
