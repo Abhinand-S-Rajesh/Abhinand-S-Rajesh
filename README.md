@@ -1,4 +1,4 @@
-# 💻 Abhinand S Rajesh / README.md
+# 💻 Abhinand S Rajesh
 
 ## 🧠 About Me:
 
@@ -31,10 +31,10 @@
 
 ## 🎓 Certifications:
 
-- Cisco NetAcad – Introduction to Cybersecurity  
-- Cisco CCNA – Introduction to Networks  
+- Cisco NetAcad – CCNA: Introduction to Networks  
 - EC-Council – Ethical Hacking Essentials  
-- Infosys Springboard – Linux for Beginners  
+- Infosys Springboard – Linux for Beginners
+- Cisco NetAcad – Introduction to Cybersecurity 
 
 ---
 
