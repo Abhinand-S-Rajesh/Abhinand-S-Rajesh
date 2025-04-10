@@ -51,7 +51,8 @@ I am currently seeking **internship opportunities** to grow under experienced pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand-S-Rajesh&layout=compact&theme=dark&hide_border=true)
 
 <!-- Contributions per hour -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abhinand-S-Rajesh&layout=compact&theme=dark)](https://wakatime.com)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinand_&layout=compact&theme=dark)](https://wakatime.com/@your_actual_wakatime_username)
+
 
 <!-- GitHub Metrics -->
 ![Metrics](https://metrics.lecoq.io/Abhinand-S-Rajesh?template=classic&config.timezone=Asia%2FCalcutta)
