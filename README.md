@@ -31,7 +31,6 @@ Currently **seeking internship opportunities** to work under seasoned profession
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
@@ -47,20 +46,25 @@ Currently **seeking internship opportunities** to work under seasoned profession
 
 ## 💼 Experience
 
-### 🏢 PROMPT Infotech (Internship) – August 2024  
-- Configured & simulated complex networks using Cisco Packet Tracer  
-- Performed vulnerability assessments on 10+ systems  
-- Hands-on work in Linux environments for performance and security enhancements  
+### 🏢 Supraja Technologies (Internship) – 28th August to 24th July  
+- Worked on secure system automation scripts and cybersecurity tools  
+- Gained hands-on experience with penetration testing methodologies  
+- Participated in threat modeling and real-time vulnerability analysis  
 
 ---
 
 ## 💻 Projects
 
-- 🧠 [**SmartCare** – AI-Based OP Booking System](https://github.com/Abhinand-S-Rajesh/SmartCare)  
-  > AI-driven OP system with secure login, real-time doctor dashboard, and symptom-based booking
+- 🔐 [**WebCam Spyware Security**](https://github.com/Abhinand-S-Rajesh/WebcamSpysec)  
+  > A Windows-based security tool that restricts webcam access using face recognition, password protection, and email alerts. Built with Python, Tkinter, and OpenCV.
 
 - ⚖️ [**AI Assistant for Cyber Laws**](https://github.com/AnbuSelvan007/Justice-Website)  
   > NLP-based chatbot for interpreting Indian cyber law queries; showcased at a hackathon to cybersecurity officials
+  
+- 🧠 [**SmartCare** – AI-Based OP Booking System](https://github.com/Abhinand-S-Rajesh/SmartCare)  
+  > AI-driven OP system with secure login, real-time doctor dashboard, and symptom-based booking
+
+
 
 ---
 
